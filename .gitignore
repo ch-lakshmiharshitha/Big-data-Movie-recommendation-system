@@ -3,5 +3,6 @@
 __pycache__/
 *.py[cod]
 data/raw/
+archive_ml_1m/
 models/
 *.log
